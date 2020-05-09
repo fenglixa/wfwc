@@ -9,7 +9,7 @@ wfwc (Word Frequency and Word Cloud)
 2. 准备好词库excel文件
 
 ## 1. 使用步骤
-- `https://github.com/fenglixa/wfwc.git`
+- `git clone https://github.com/fenglixa/wfwc.git`
 - `cd wfwc`
 - `pip3 install -r requirements.txt`
 - `python excelCount.py excelName sheetName columnNumber`
