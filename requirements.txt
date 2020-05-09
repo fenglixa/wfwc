@@ -1,0 +1,6 @@
+xlrd
+wordcloud
+jieba
+matplotlib
+numpy
+openpyxl

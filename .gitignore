@@ -1,0 +1,13 @@
+# Python dev
+.mypy_cache
+.venv/
+*.egg-info/
+
+# VSCode
+.vscode
+
+# Ignore files for MacOS
+**/.DS_Store
+
+# Local or temporary build files
+data/*
