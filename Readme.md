@@ -1,7 +1,7 @@
 # 统计词频并根据图片生成词云-支持中英文
 wfwc (Word Frequency and Word Cloud)
 
-根据Excel表格内容统计词频，及词汇发生的频率，并且生成词云图片。
+根据Excel表格内容统计词频，即词汇发生的频率，并且生成词云图片。
 
 预设条件：
 
@@ -37,4 +37,4 @@ Word frequency result was saved at frequency_result.xlsx
 > 替换你自己的图片，只需替换文件 `pic/background.png` 即可
 
 - 禁用词汇：
-> 禁止显示某些词汇，修改文件 `src/stopwords.txt`,添加你的禁用词汇即可
+> 禁止显示某些词汇，修改文件 `src/stopwords.txt`，添加你的禁用词汇即可
